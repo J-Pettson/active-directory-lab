@@ -23,7 +23,7 @@ Set up a Domain Controller and connected a client machine.
 
 ![AD Users](screenshots/ad-users.png)
 
-![Client Login](screenshots/client.login.png)
+![Client Login](screenshots/client-login.png)
 
 ![Mapped Drive](screenshots/mapped-drive.png)
 
